@@ -5,7 +5,7 @@
 
 ## &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-<img style="padding-top:50px" align="right" alt="Coding" width="40%" src="[https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif](https://miro.medium.com/v2/resize:fit:1358/1*Gn67FLVSiYsnUaU1g1TgFw.png)">
+<img style="padding-top:50px" align="right" alt="Coding" width="40%" src="https://miro.medium.com/v2/resize:fit:1358/1*Gn67FLVSiYsnUaU1g1TgFw.png">
 
 - I'm aspiring 🔭 Full-Stack Web Developer currently learning 🌱 **MEARN Stack**.
 
