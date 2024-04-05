@@ -16,7 +16,7 @@
 - 🤝 I’m looking for help with **Full-Sack Path**
 
 - 📫 WhatsApp: **01065310624**
-- 📫 How to reach me **abdelalmahmoud25@gmail.com**
+- 📫 How to reach me **mahmoud.abdelaal.dev@gmail.com**
 <h3 align="left">
     <a href="https://www.linkedin.com/in/mahmoud-abdelaal-0b6736210/" target="_blank" rel="noreferrer"> 
         <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="Linked-In" width="40" height="40"/> 
