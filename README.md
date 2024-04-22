@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>👋Welcome to My GitHub Profile!</h1>
+    <h1>Hi 👋, I'm Mahmoud </h1>
+    <hr>
     <p>
-        🚀 I'm Mahmoud Abdelaal, a software engineer passionate about full-stack web development. 
+        🚀  Software engineer passionate about full-stack web development. 
         I specialize in crafting robust solutions with cutting-edge technologies. 🛠️
     </p>
     <p>
