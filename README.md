@@ -9,6 +9,7 @@
     <h2>
         🚀  Software engineer  🛠️ |  2023 Graduate🎉🎉
     </h2>
+    <h3>💫 About Me: </h3>
     <p>
         🌱 Currently, I'm diving into Java, Spring, and Spring Boot to deepen my backend skills.
     </p>
