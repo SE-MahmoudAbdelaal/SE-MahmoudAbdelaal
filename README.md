@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>Hi 👋, I'm Mahmoud </h1>
-    <hr>
     <p>
         🚀  Software engineer passionate about full-stack web development. 
         I specialize in crafting robust solutions with cutting-edge technologies. 🛠️
