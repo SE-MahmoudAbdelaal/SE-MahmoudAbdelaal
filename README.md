@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Hi 👋, I'm Mahmoud </h1>
-    <h2>
+    <h1 style="text-align: center;">Hi 👋, I'm Mahmoud </h1>
+    <h2 style="text-align: center;">
         🚀  Software engineer  🛠️ |  2023 Graduate🎉🎉
     </h2>
     <h3>💫 About Me: </h3>
