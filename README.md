@@ -6,10 +6,9 @@
 </head>
 <body>
     <h1>Hi 👋, I'm Mahmoud </h1>
-    <h4>
-        🚀  Software engineer passionate about full-stack web development. 
-        I specialize in crafting robust solutions with cutting-edge technologies. 🛠️ |  2023 Graduate🎉🎉
-    </h4>
+    <h2>
+        🚀  Software engineer  🛠️ |  2023 Graduate🎉🎉
+    </h2>
     <p>
         🌱 Currently, I'm diving into Java, Spring, and Spring Boot to deepen my backend skills.
     </p>
